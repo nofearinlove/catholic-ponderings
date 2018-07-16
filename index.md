@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## faith & reason in the modern world
 
-You can use the [editor on GitHub](https://github.com/nofearinlove/catholic-ponderings/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+a blend of light & easy + serious & deep conversation regarding Catholicsm in today's society
 
 ### Markdown
 
